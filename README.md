@@ -1,6 +1,8 @@
 # express-note-taker
 Note taking application designed to write, save and delete notes, written to a backend JSON
 
+<img src = "public/assets/demo.PNG">
+
 ## Description
 
 This is an application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
